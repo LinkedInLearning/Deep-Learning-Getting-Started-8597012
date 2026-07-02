@@ -39,7 +39,7 @@ To resolve this issue:
 ## Instructor
 
 Kumaran Ponnambalam - Working with data for 20+ years
-Check out my other courses on LinkedIn Learning. [lil-instructor-url]: https://www.linkedin.com/learning/instructors/kumaran-ponnambalam?u=104
+Check out my other courses on LinkedIn Learning. [lil-instructor-url]: https://www.linkedin.com/learning/instructors/kumaran-ponnambalam
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
