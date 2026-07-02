@@ -31,6 +31,6 @@ To resolve this issue:
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQG0eDHsyOSqTA/learning-public-crop_675_1200/B4EZVdqqdwHUAY-/0/1741033220778?e=2147483647&v=beta&t=FxUDo6FA8W8CiFROwqfZKL_mzQhYx9loYLfjN-LNjgA
+[lil-course-url]: https://www.linkedin.com/learning/deep-learning-getting-started-42471011/getting-started-with-deep-learning
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D560DAQGMrw9W18cvww/learning-public-crop_675_1200/B56Z6EGjMPHAAY-/0/1780332770328?e=2147483647&v=beta&t=zfr46KgQQjYCzHtb-Q1xUzBPg09THB7DwMzHNyqe0-E
 
